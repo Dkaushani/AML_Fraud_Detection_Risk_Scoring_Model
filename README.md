@@ -38,5 +38,12 @@ XGBoost Classifier: Uses scale_pos_weight to heavily penalize missing fraud case
 #Beeswarm Plots: Show global feature impact across all test cases.
 #Waterfall Plots: Breakdown log-odds impact for individual flagged transactions to generate audit reports.
 
-#Key ResultsROC-AUC: ~0.999
+#Key Results
+#ROC-AUC: ~0.999
 #Top Feature: errorBalanceOrig (Accounting discrepancies during full account drainage are the strongest indicator of fraud).
+
+<img width="491" height="270" alt="image" src="https://github.com/user-attachments/assets/a545abef-1b6c-4ad2-ba96-f21bef62b034" />
+
+<img width="525" height="326" alt="image" src="https://github.com/user-attachments/assets/d4e3d1ae-2912-4cdc-ab5f-74b5aef6cfdb" />
+
+<img width="451" height="271" alt="image" src="https://github.com/user-attachments/assets/2677aa40-c959-41fa-a261-9978bcf7edb5" />
