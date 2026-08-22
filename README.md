@@ -24,7 +24,7 @@ This project uses the PaySim Financial Fraud Dataset (~6.36 million rows).
 
 📌 Pipeline Breakdown
 
-1.Domain Feature Engineering: Rather than relying only on raw transaction amounts, the pipeline derives balance discrepancy features:
+1. Domain Feature Engineering: Rather than relying only on raw transaction amounts, the pipeline derives balance discrepancy features:
 
 ⚙ errorBalanceOrig: Difference between expected sender balance and actual post-transaction balance.
 
